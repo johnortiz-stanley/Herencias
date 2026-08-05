@@ -7,4 +7,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Include="..\.gitattributes" Link=".gitattributes" />
+    <None Include="..\.gitignore" Link=".gitignore" />
+  </ItemGroup>
+
 </Project>
